@@ -10,7 +10,7 @@ Original 2D video game for fun and learning
 pip install -r requirements.txt
 
 2. Run the game:
-python game.py
+python GameTest2.py
 
 ## Controls
 - Arrow keys to move
